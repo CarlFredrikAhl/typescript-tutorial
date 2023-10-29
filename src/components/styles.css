@@ -67,7 +67,7 @@
     font-size: 20px;
 }
 
-.todos_single_text.focus {
+.todos_single_text:focus {
     outline:none;
 }
 
